@@ -1,0 +1,5 @@
+@startuml
+left to right direction
+actor Student
+Student --> (Register Course)
+@enduml
